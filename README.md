@@ -4,7 +4,7 @@
 
 Research what people have discussed in the last 30 days across high-signal public platforms. Use when the user asks for `/last30days`, recent trend research, competitive intelligence, market pulse briefs, or engagement-ranked synthesis from Reddit, Hacker News, GitHub, X, YouTube, Polymarket, and similar sources.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `last30days`
 
 ## Install
